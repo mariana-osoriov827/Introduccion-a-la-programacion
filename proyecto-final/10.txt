@@ -1,0 +1,12 @@
+Fila_numeros_I
+3 1 10
+a1a
+a2
+s3
+d4
+f5
+g6f
+h7j
+j8
+k9
+l0
