@@ -1,6 +1,5 @@
 # Introducción a la programación 💻
-¡Bienvenido al repositorio de la asignatura de Introducción a la Programación!
-Este espacio está dedicado a los talleres y proyectos del curso. La asignatura introduce a los estudiantes sin experiencia previa en las estrategias para solucionar problemas usando un computador. Se enfoca en desarrollar el pensamiento algorítmico y aplicar los conceptos básicos de programación para resolver desafíos.
+Este espacio está dedicado a los talleres y proyectos del curso 2230. La asignatura introduce a los estudiantes sin experiencia previa en las estrategias para solucionar problemas usando un computador. Se enfoca en desarrollar el pensamiento algorítmico y aplicar los conceptos básicos de programación para resolver desafíos.
 
 El curso se basa en clases magistrales interactivas, la realización de talleres y un proyecto en equipo.
 
@@ -16,5 +15,5 @@ El curso cubre los siguientes temas fundamentales, que se exploran en los taller
 - Manejo de colecciones de datos: Uso de memoria estática, arreglos y otras estructuras para organizar la información.
 - Manejo de datos en archivos: Trabajo con archivos de texto para la persistencia de la información.
 
-## 📁 Estructura del eepositorio
+## 📁 Estructura del repositorio
 Aquí encontrarás los ejercicios y proyectos desarrollados durante el semestre, organizados según los temas y objetivos de la clase. Cada carpeta contiene las soluciones a los problemas propuestos, demostrando la aplicación de los conceptos aprendidos en clase.
